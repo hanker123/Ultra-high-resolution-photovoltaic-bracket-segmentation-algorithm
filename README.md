@@ -7,3 +7,5 @@ Ultra high resolution photovoltaic bracket segmentation algorithm
 ### 本项目只提供部分代码，如有需求私信，免费提供
 
 ### 切分图像示例如下：
+- ![Image text](229.jpg)
+- ![Image text](230.jpg)
